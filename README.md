@@ -13,3 +13,6 @@ i've successfully connect my wsl with my github
 and i also made a push
 i did it
 and now, i'm trying branch programming
+
+now i m learning diff
+hh
