@@ -8,7 +8,7 @@ glad to see you guys here!
 wish me good luck
 
 2018.2.9 16:25
-this time
+that time
 i've successfully connect my wsl with my github
 and i also made a push
 i did it
